@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Animal\bin\Debug\Animal.exe.config
+C:\Users\Admin\source\repos\Animal\bin\Debug\Animal.exe
+C:\Users\Admin\source\repos\Animal\bin\Debug\Animal.pdb
+C:\Users\Admin\source\repos\Animal\obj\Debug\Animal.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Animal\obj\Debug\Animal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Animal\obj\Debug\Animal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Animal\obj\Debug\Animal.exe
+C:\Users\Admin\source\repos\Animal\obj\Debug\Animal.pdb
